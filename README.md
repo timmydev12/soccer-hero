@@ -6,7 +6,7 @@ You need to click the green **<>code** button and then **Download ZIP** and afte
 
 after the open the ZIP is there a **soccer-game-folder** open it to and there is then the **soccer-ingame-folder ZIP**.
 
-open the **soccer-ingame-folder ZIP** to and there is then the **ingame folder** bring it to your desktop and open it.
+open the **soccer-ingame-folder ZIP** to and there is then the **game folder** bring it to your desktop and open it.
 
 In the folder is then the Game **soccer** and now you can start it.
 
