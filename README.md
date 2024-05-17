@@ -8,7 +8,7 @@ after the open the ZIP is there a **soccer-game-folder** open it to and there is
 
 open the **soccer-ingame-folder ZIP** to and there is then the **ingame folder** bring it to your desktop and open it.
 
-In the folder is then the Game **soccer** and now you can start it.
+In the folder is then the Game Tester Key Creator **soccer** and now you can start it.
 
 # Game Tester Rewards
 The Game Testers will get **70 Robux** to testing the game and for giving some fedbacks to us.
